@@ -150,11 +150,8 @@
       "Category": "Women",
       "quantity": 1
     }
-  ]
-}
-
-
-{
+  ],
+  {
   "products": [
     {
       "id": "67c7",
@@ -215,4 +212,8 @@
   ],
   "exceldata":{}
 }
+
+}
+
+
 
